@@ -1,0 +1,22 @@
+{
+  "name": "sqlpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kylemcloughlin/sqlpractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kylemcloughlin/sqlpractice/issues"
+  },
+  "homepage": "https://github.com/kylemcloughlin/sqlpractice#readme",
+  "dependencies": {
+    "pg": "^7.8.1"
+  }
+}
